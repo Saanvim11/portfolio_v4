@@ -10,16 +10,6 @@
   Personal portfolio of <a href="https://my-portfolio-nu-gilt-45.vercel.app/" target="_blank">Saanvi Moolchandani</a> — CS Engineer specializing in AI/ML, Deep Learning, and Full Stack Development. Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 
-<p align="center">
-  Built on top of <a href="https://brittanychiang.com" target="_blank">Brittany Chiang's v4</a> design — all credit for the original design goes to her.
-</p>
-
-![demo](https://raw.githubusercontent.com/Saanvim11/portfolio_v4/main/src/images/demo.png)
-
-## ⚠️ Using This Code
-
-This portfolio is based on [Brittany Chiang's v4](https://github.com/bchiang7/v4). If you wish to use this code, please give credit to both **Brittany Chiang** (original design) and **Saanvi Moolchandani** (customizations). Plagiarism is bad — don't claim others' work as your own.
-
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE @ VIT Chennai (CGPA: 8.77)
